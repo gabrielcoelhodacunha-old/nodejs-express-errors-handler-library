@@ -1,4 +1,4 @@
-# Node.js Express Error Handler Library
+# Node.js Express Errors Handler Library
 
 ## About
 
@@ -12,7 +12,7 @@ Library to create an error handler for express apps.
 [![TypeScript][typescript-badge]][typescript]
 
 </div>
-<p align="right">(<a href="#nodejs-express-error-handler-library">back to top ⬆️</a>)</p>
+<p align="right">(<a href="#nodejs-express-errors-handler-library">back to top ⬆️</a>)</p>
 
 ## Getting started
 
@@ -20,11 +20,11 @@ Library to create an error handler for express apps.
 
 ### Installation
 
-<p align="right">(<a href="#nodejs-express-error-handler-library">back to top ⬆️</a>)</p>
+<p align="right">(<a href="#nodejs-express-errors-handler-library">back to top ⬆️</a>)</p>
 
 ## Usage
 
-<p align="right">(<a href="#nodejs-express-error-handler-library">back to top ⬆️</a>)</p>
+<p align="right">(<a href="#nodejs-express-errors-handler-library">back to top ⬆️</a>)</p>
 
 <!-- Markdown links and images -->
 
