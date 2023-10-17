@@ -1,5 +1,5 @@
 {
-  "name": "@gccunha015/express-error-handler",
+  "name": "@gccunha015/express-errors-handler",
   "version": "1.0.0",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -18,10 +18,10 @@
     "test:coverage": "npx jest --coverage",
     "test:coverage:clean": "npm run test:coverage; npm run clean:coverage",
     "build": "npx tsc -p tsconfig.build.json",
-    "clean": "npm run clean:dist; npm run clean:coverage",
-    "clean:dist": "rm -fr dist",
+    "clean": "npm run clean:lib; npm run clean:coverage",
+    "clean:lib": "rm -fr lib",
     "clean:coverage": "rm -fr coverage",
-    "clean:build": "npm run clean:dist; npm run build"
+    "clean:build": "npm run clean:lib; npm run build"
   },
   "keywords": [],
   "author": "",
