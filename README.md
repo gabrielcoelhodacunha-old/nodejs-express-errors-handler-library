@@ -1,5 +1,7 @@
 # Node.js Express Errors Handler Library
 
+# This repository is ARCHIVED
+
 ## About
 
 Library to create an error handler for express apps.
